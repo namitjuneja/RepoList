@@ -25,6 +25,8 @@ Leave/Outing Approval Notifier - [Approval Notifier](https://github.com/aarthykc
 
 Course Page Downloader - [Course-Page-Downloader](https://github.com/kp96/Course-Page-Downloader)
 
+Chrome Extensions to easily download course material - [multiDownloader](http://namitjuneja.com/multiDownloader/)
+
 ## VITacademics-Faculty
 
 Backend - [VITacademics-Faculty](https://github.com/kishore-narendran/vitacademics-faculty-dev)
